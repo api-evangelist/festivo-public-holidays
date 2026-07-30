@@ -1,4 +1,16 @@
 aid: festivo-public-holidays
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/festivo-public-holidays.png
 name: Festivo Public Holidays
 description: "Fastest and most advanced public holiday and observance service on the market"
 url: https://docs.getfestivo.com/docs/products/public-holidays-api/intro
